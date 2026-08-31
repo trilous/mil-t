@@ -17,9 +17,3 @@ make
 ```
 
 Press `q` to quit.
-
-## Features (planned)
-- [ ] Cursor movement
-- [ ] File viewing
-- [ ] File editing
-- [ ] Custom features TBD
